@@ -1,0 +1,5 @@
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Common\bin\Debug\Common.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Common\bin\Debug\Common.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Common\obj\Debug\Common.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Common\obj\Debug\Common.pdb

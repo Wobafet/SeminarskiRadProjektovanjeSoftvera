@@ -1,0 +1,11 @@
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\bin\Debug\Storage.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\bin\Debug\Storage.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\bin\Debug\BrokerDataBase.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\bin\Debug\Domain.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\bin\Debug\BrokerDataBase.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\bin\Debug\Domain.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\obj\Debug\Storage.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\Storage\obj\Debug\Storage.pdb

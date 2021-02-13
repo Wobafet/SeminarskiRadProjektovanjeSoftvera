@@ -1,0 +1,13 @@
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\SystemOperation.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\SystemOperation.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\Domain.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\Storage.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\BrokerDataBase.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\Domain.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\Storage.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\bin\Debug\BrokerDataBase.pdb
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\obj\Debug\SystemOperation.csprojAssemblyReference.cache
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\obj\Debug\SystemOperation.csproj.CoreCompileInputs.cache
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\obj\Debug\SystemOperation.csproj.CopyComplete
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\obj\Debug\SystemOperation.dll
+C:\Users\Wobbuffet\source\repos\SeminarskiRadProjektovanjeSoftvera\SystemOperation\obj\Debug\SystemOperation.pdb
