@@ -38,7 +38,6 @@ namespace SeminarskiRadProjektovanjeSoftvera
         {
             try
             {
-               MessageBox.Show("System cannot saved attendance");
                 if (controller.Connect())
                     controller.Login(ucPassword, ucUsername, this);
 
